@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Irregular Verb",
+  "description": "Revising irregular verbs each time opening a new Chrome tab.",
+  "version": "0.0.1",
+  "icons": {
+    "16": "/public/English.png",
+    "48": "/public/English.png",
+    "128": "/public/English.png"
+  },
+  "homepage_url": "https://tudien.net",   
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
