@@ -9,3 +9,4 @@ Now, simply hit the "load unpacked" button on Chrome and then mount the folder c
 The extension will override the tab setting on Chrome. Each time opening a new one, it will display a random regular verb.
 
 2) Irregular-verb is on air at https://chrome.google.com/webstore/detail/irregular-verb/benmbghabiigjlihipebnebecigfinpa/
+ 
